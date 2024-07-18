@@ -1,4 +1,4 @@
-# Fields Institute 2025 Thematic Program in Mathematics of Neuroscience
+# Fields Institute 2025 Thematic Program in Mathematics of Neuroscience - Source code
 
 This github repo contains the website source code and hosting for the 'alt' website of the 2025 Fields Institute Thematic Program in Mathematics of Neuroscience. 
 
