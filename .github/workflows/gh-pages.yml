@@ -24,8 +24,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Create CNAME file # ( Needed for grifflab.com domain hosting; JG_ADD )
-        run: echo 'www.grifflab.com' > public/CNAME
+      - name: Create CNAME file # 
+        # run: echo 'www.grifflab.com' > public/CNA
+        run: echo '...' > public/CNAME
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
